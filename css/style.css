@@ -947,7 +947,7 @@ label>button:hover {
     .header-content::before {
         content: "";
         position: absolute;
-        background-image: url("/images/bg-image.png");
+        background-image: url("images/bg-image.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: auto 100%;
@@ -1042,7 +1042,7 @@ label>button:hover {
     .header-content::before {
         content: "";
         position: absolute;
-        background-image: url("/images/bg-image.png");
+        background-image: url("images/bg-image.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: auto 80%;
@@ -1118,7 +1118,7 @@ label>button:hover {
     .about::before {
         content: "";
         position: absolute;
-        background-image: url("/images/about-img-2x.png");
+        background-image: url("images/about-img-2x.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
