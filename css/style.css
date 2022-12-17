@@ -1155,6 +1155,7 @@ label>button:hover {
     .info {
         max-width: 550px;
         margin-top: 50px;
+        padding: 0 15px;
     }
 
     .info h3 {
@@ -1185,8 +1186,16 @@ label>button:hover {
     .card>img {
         width: 100%;
     }
+    
+    .btn-wrap {
+        margin-bottom: 80px;
+    }
 
     /*?======= MOBILE BLOCK======== */
+     .mobile-wrapper {
+        padding: 100px 0;
+    }
+    
     .mobile-content {
         margin: 0;
         text-align: center;
@@ -1238,6 +1247,15 @@ label>button:hover {
     .box:last-child {
         margin-bottom: 0;
     }
+    
+     /*?===== DESCRIBE======= */
+    .describe-wrap {
+        padding: 0 15px;
+    }
+
+    .work-position {
+        margin-bottom: 100px;
+    }
 
     /*?===== CONTACT BLOCK===== */
     .contact-item {
@@ -1266,6 +1284,10 @@ label>button:hover {
     }
 
     /*?========= FOOTER======== */
+    .footer {
+        padding: 100px 0;
+    }
+    
     .contact-title {
         font-size: 25px;
     }
